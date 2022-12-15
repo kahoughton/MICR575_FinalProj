@@ -1,3 +1,5 @@
 # MICR575_FinalProj
 
-**Not complete yet 
+Review the finalproject quarto files for complete details. 
+Practice notes were taken in the "Snakemake_Tutorial.R" script
+
