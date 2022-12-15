@@ -4,7 +4,7 @@ format: gfm
 editor: visual
 ---
 
-## Goals
+## Goals 
 
 The goal of this final project was to process RNA seq data using a workflow management system on a high performance cluster (UTK - ISAAC).
 
@@ -79,7 +79,6 @@ The goal of this final project was to process RNA seq data using a workflow mana
                 "plots/quals.svg"
             script:
                 "scripts/plot-quals.py"
-
         ```
 
     -   environment.yaml code:
@@ -104,9 +103,8 @@ The goal of this final project was to process RNA seq data using a workflow mana
 
         ![](tutorial_material/dag.svg)
 
-    ```{=html}
     <!-- -->
-    ```
+
     -   Main output files: quality file of processed reads
 
         ![](tutorial_material/quals.svg)
